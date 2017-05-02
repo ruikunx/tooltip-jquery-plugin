@@ -1,0 +1,17 @@
+.tooltip-body {
+  padding: 10px;
+  position: relative;
+}
+
+.tooltip-arrow {
+  position: absolute;
+  z-index: 9999;
+  margin-left: -6px;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  border-top: 7px solid transparent;
+  border-right: 6px solid transparent;
+  border-bottom: 7px solid transparent;
+  border-left: 6px solid transparent;
+}

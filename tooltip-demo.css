@@ -1,0 +1,16 @@
+.my-tooltip {
+  display: inline-block;
+  width: 500px;
+  border-radius: 4px;
+  position: relative;
+  background-color: #323232;
+  color: #fff;
+}
+
+.demo {
+  max-width: 500px;
+  padding: 15px;
+  height: 50px;
+  margin: 200px auto;
+  background-color: yellow;
+}
